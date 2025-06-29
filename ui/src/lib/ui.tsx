@@ -1,6 +1,6 @@
 export function MonorepoUi() {
   return (
-    <div className={styles['container']}>
+    <div className={'container'}>
       <h1>Welcome to MonorepoUi!</h1>
     </div>
   );
